@@ -23,8 +23,10 @@ Aplicativo Flutter para Android que baixa e reproduz músicas via JSON remoto co
 
 | Requisito | Status |
 |---|---|
-Download MP3 | ✅
-Streaming progressivo | ✅
+ permite ordem randomica da playlist ✅
+ retomada de dowload| ✅
+Streaming progressivo |✅
+ funciona com tela desligada ✅
 Buffer + barra de progresso | ✅
 Execução em segundo plano | ✅
 Notificação com controles | ✅
