@@ -13,7 +13,7 @@ Aplicativo Flutter para Android que baixa e reproduz músicas via JSON remoto co
 ## 👨‍💻 Equipe
 
 - Renata Fiuza e Valentina Gonzales
-- 
+  
 
 > Cada um entregou o próprio fork conforme exigido.
 
