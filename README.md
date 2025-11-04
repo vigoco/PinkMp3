@@ -54,9 +54,6 @@ Celular Android ou Emulador
 
 Clone o repositório
 
-git clone https://github.com/<SEU_USUARIO>/<NOME_DO_REPOSITORIO>.git
-
-
 Entre na pasta do projeto
 
 cd <NOME_DO_REPOSITORIO>
@@ -78,21 +75,14 @@ Execute o app
 
 flutter run --release
 
-
-É recomendado testar em um dispositivo físico, pois este projeto usa execução em segundo plano, streaming de áudio e serviços persistentes.
-
 🤝 Como contribuir com o projeto
 
-Se quiser colaborar, siga o fluxo padrão:
 
 Faça um fork do repositório
 
 Clique em Fork no GitHub.
 
 Clone o fork
-
-git clone https://github.com/<SEU_USUARIO>/<NOME_DO_REPOSITORIO>.git
-
 
 Crie uma nova branch
 
@@ -114,8 +104,8 @@ Abra um Pull Request
 
 No GitHub → vá ao seu fork → New Pull Request
 
-Descreva o que mudou, por que e como testar.
 
 
 TELA DO APP
+
 ![85240c21-46f2-46b2-93f8-8b6474eda590](https://github.com/user-attachments/assets/9920c4ac-0e58-4a1d-b359-d269252e0321)
