@@ -56,8 +56,6 @@ Clone o repositório
 
 Entre na pasta do projeto
 
-cd <NOME_DO_REPOSITORIO>
-
 
 Instale as dependências
 
